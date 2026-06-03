@@ -1,11 +1,7 @@
-# Open TimeLimit
+# TLPlus
 
-This App allows setting time limits for the usage of Android phones/ devices.
-
-It is a fork of the App [TimeLimit](https://timelimit.io)
-with all networking related features removed.
-
-[![get it on fdroid badge](./get-it-on-fdroid-badge.png)](https://f-droid.org/app/io.timelimit.android.open)
+This App allows setting time limits for the usage of Android phones/devices.   
+(fork to [Open TimeLimit](codeberg.org/timelimit/opentimelimit-android))
 
 ### Building
 
